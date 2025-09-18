@@ -1,8 +1,8 @@
 # TP1DPBO2425C2
 
-# Saya Putri Ramadhani dengan NIM 2410975 menegerjakan Tugas Praktikum 1 dalam mata kuliah DPBO
-# untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.
-# Aaamiin  
+ Saya Putri Ramadhani dengan NIM 2410975 menegerjakan Tugas Praktikum 1 dalam mata kuliah DPBO
+ untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.
+ Aaamiin  
 
 
  # Penjelasan Desain dan Kode Flow:
