@@ -16,8 +16,6 @@
  4. Harga, sebagai harga sebuah barang dari produk elektronik
  5. Stok, sebagai stok/sisa barang dari produk elektronik
 
- # Terdapat menu utama/pilihan menu dalam program yaitu:
-
 # Penjelasan dalam Kodenya/Flow Kode:
  -Program ini akan menampilkan menu pilihan kepada pengguna
  -menu terdiri dari: 1. Tambah produk
